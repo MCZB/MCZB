@@ -24,4 +24,4 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=MCZB&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/MCZB)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mczb&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/MCZB)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCZB&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
