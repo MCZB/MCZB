@@ -1,27 +1,49 @@
+<h1 align="center">Olá, eu sou o MCZB 👋</h1>
+<p align="center">
+  <strong>Desenvolvedor Backend</strong> apaixonado por criar aplicações robustas, escaláveis e limpas usando PHP e Laravel.
+</p>
 
-# Hi, I'm Mauricio Cezimbra!
+<p align="center">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/MCZB)
+---
 
-## About me:
+### 💻 Sobre Mim
 
-I'm a just Developer :smile:
+- 🔭 Atualmente focado em desenvolver APIs RESTful eficientes e arquiteturas limpas com **PHP** e **Laravel**.
+- 🚀 Estudando boas práticas de desenvolvimento, design patterns, testes automatizados e otimização de banco de dados.
+- ⚡ Curioso sobre novas tecnologias do ecossistema backend, microsserviços e performance.
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+---
 
-## My specialties:
+### 🛠️ Tecnologias e Ferramentas
 
-### Languages: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" style="display: block;"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-F7DF1E?&style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+<div align="center">
 
-### Database: <img src ="https://img.shields.io/badge/MYSQL-4479A1?&style=for-the-badge&logo=MYSQL&logoColor=white" style="display: block;"/>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Frameworks & Libs** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Eloquent](https://img.shields.io/badge/Eloquent-ORM-orange?style=for-the-badge) |
+| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **Ferramentas & DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **Testes** | ![PHPUnit](https://img.shields.io/badge/PHPUnit-%23282828.svg?style=for-the-badge&logo=phpunit&logoColor=white) |
 
-## What I don't know, give me a few days 😁
+</div>
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=MCZB&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/MCZB)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCZB&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/)
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MCZB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCZB&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
