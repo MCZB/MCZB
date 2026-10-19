@@ -1,7 +1,4 @@
-<h1 align="center">Olá, eu sou o MCZB 👋</h1>
-<p align="center">
-  <strong>Desenvolvedor Backend</strong> apaixonado por criar aplicações robustas, escaláveis e limpas usando PHP e Laravel.
-</p>
+<h1 align="center">Olá, eu sou o Maurício Cezimbra 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
